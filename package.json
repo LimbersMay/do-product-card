@@ -39,7 +39,7 @@
     "trailingComma": "es5"
   },
   "name": "do-product-card",
-  "author": "limberMay",
+  "author": "limbermay",
   "module": "dist/do-product-card.esm.js",
   "size-limit": [
     {
